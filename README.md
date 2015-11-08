@@ -1,4 +1,4 @@
-# OpenCV-Smartphone-Research-Projects
+# OpenCV-Smartphone-Research-Project-Ideas
 
 * Gu-Min Jeong, Chang-Woo Park, Sujeong You and Sang-Hoon Ji (2015, February). **A Study on the Education Assistant System Using Smartphones and Service Robots for Children**. (http://cdn.intechopen.com/pdfs-wm/46604.pdf)
 * Kulyukin, V., Kutiyanawala, A., Zaman, T., & Clyde, S. (2013, January). **Vision-based localization and text chunking of nutrition fact tables on android smartphones**. In Proc. International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV 2013) (pp. 314-320). (http://weblidi.info.unlp.edu.ar/WorldComp2013-Mirror/p2013/IPC3047.pdf) with (http://code.google.com/p/tesseract-ocr) 
