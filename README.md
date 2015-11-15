@@ -15,7 +15,7 @@
 ## Education
 
 * Gu-Min Jeong, Chang-Woo Park, Sujeong You and Sang-Hoon Ji (2015, February). **A Study on the Education Assistant System Using Smartphones and Service Robots for Children**. (http://cdn.intechopen.com/pdfs-wm/46604.pdf)
-
+*  Sumita Chandak, Mansi Patange, Himani Deshpande, Saifina Maredia, Prathmesh Bagwe. **A Conceptual Model of Automated Attendance System using Image Processing**. (http://www.ijarcce.com/upload/2015/october-15/IJARCCE%2060.pdf)
 
 
 ## Transportation
